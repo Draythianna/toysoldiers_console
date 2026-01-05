@@ -1,3 +1,9 @@
+Running, Compile Requirements:
+
+Nirsoft's run_as_date
+ViGEmBus installed
+some loaders not included in source (For obvious legal reasons) I heard rumors that Counterstrike Russians know about them!"
+
 # toysoldiers_console
 Toy Soldiers: War Chest, 2026+ enabler and Console keyboard helper, Troubleshooter
 
