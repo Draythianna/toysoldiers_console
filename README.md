@@ -53,7 +53,7 @@ Running the installer it will first detect or install ViGEmBus program for using
 <img width="527" height="238" alt="3592469196_preview_vigem" src="https://github.com/user-attachments/assets/fbe136fc-d933-4897-bca4-7cdfebbd8c90" />
 
 
-Then you will have to accept the license agreement:
+Then you will have to accept the license agreement (+gpl2 because of autohotkey usage, +NK2Edit for nirsoft, + unknown for loaders):
 
 <img width="734" height="558" alt="3592469196_preview_license" src="https://github.com/user-attachments/assets/4badcca1-eda2-4584-8bee-e3fe48bb9178" />
 
