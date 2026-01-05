@@ -1,0 +1,81 @@
+---------------------------------------------------------------
+Steam's: Toy Soldiers Warchest - Hall of Fame Edition
+
+Unofficial Troubleshooter! -ie how to make the game work again!
+---------------------------------------------------------------
+
+	I have included an installer here that will allow this game to function with no system wide time changes in 2025 and beyond.
+
+Also I included a developer console program i wrote (that without needing a gamepad trick) that allows you to activate or deactivate it using the grave (`) key or backspace, enter and error keys change things and escape closes it.  This will allow you to get the dlc you bought to work again like in the tutorial found here:
+
+https://youtu.be/UXd-kTpx1gw?si=48PxVhjFdW5Q7i8m
+
+*Note: if you hit the enter key while in the dev console and the music stops hit enter again and it will start again that is an issue with the original dev console. If the music isn't playing the dlc unlock will not work!
+
+ie:
+
+.\Hereos\..
+
+UnlockAll      false > true
+
+= DLC Works!
+
+*This does have to be run everytime still!
+
+Included in the installer are various troubleshooting tools including allowing the game to launch without steam or without uplay or both as well.  If you are utilizing the offline launcher I included a generator that will create a profile if you happen to know your real info you can enter it here for troubleshooting purposes and the save games will work accurately.
+
+If the generated data doesn't match the save data it will give errors, in that case you will have to delete your saves (entire folder) here for game to launch by this method:
+
+if emulated:
+%APPDATA%\Goldberg SteamEmu Saves\276770
+
+original location:
+%PROGRAMFILES(x86)%\Steam\userdata\<steamid>\276770
+
+If you prefer just the dev console and the fixes, you can chose them, no guarantee if official uplay steam compatibility will work on this title for much longer!
+
+*Game launches using steam call, if you don't want this close steam first!, it will launch directly then!
+
+**Requirements**
+64bit Windows Installation
+	
+**Requirements for dev console program*
+
+Requires Nefarius ViGEmBus virtual xbox 360 controller emulator.  You have this if you use sunshine or apollo for game streaming.  Otherwise installer will attempt to download and install it for you!
+
+CREDITS:
+
+This wouldn't have been possible without a thanks to a few people:
+
+DLC fix:
+The Gaming Archaeologist
+https://www.youtube.com/@The_gaming_archaeologist
+
+Droidjar 
+https://steamcommunity.com/profiles/76561198104508253
+
+
+Time fix:
+
+Nirsoft
+https://www.nirsoft.net/utils/run_as_date.html
+
+Dev Console Program Prereqs:
+
+Nefarius
+https://github.com/nefarius/ViGEmBus/releases
+
+
+Hope everyone enjoys!
+
+-Draythianna™
+
+Draythsoft™ (Un)Inc. 2025 ©
+
+
+
+
+
+
+
+
